@@ -10,4 +10,6 @@ Prerequists
 4. Add Node module with <code> npm install </code>
 5. Add Dependacies in project <code> npm install express mongoose session </code>
 Run with <code>node server.js</code>
+hit the link in broweser
+<code> http://localhost:8080/ </code>
 
